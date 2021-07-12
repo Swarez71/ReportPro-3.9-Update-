@@ -1,0 +1,168 @@
+***  Installation Started 07/12/2021 17:15  ***
+Title: ReportPro 3.9d Upgrade
+Source: C:\rp38\RP39dupgd.EXE
+Made Dir: C:\RP39
+File Copy: C:\RP39\rp300.hlp
+Made Dir: C:\RP39\Samples
+File Copy: C:\RP39\Samples\Therm5.bmp
+Made Dir: C:\RP39\ActiveX Examples
+Made Dir: C:\RP39\ActiveX Examples\Delphi
+File Copy: C:\RP39\ActiveX Examples\Delphi\RpRunProject.exe
+File Copy: C:\RP39\ActiveX Examples\Delphi\RpRunProject.res
+File Copy: C:\RP39\ActiveX Examples\Delphi\RpRunProject.dpr
+File Copy: C:\RP39\ActiveX Examples\Delphi\RpRunProject.dof
+File Copy: C:\RP39\ActiveX Examples\Delphi\RpRunProject.cfg
+File Copy: C:\RP39\ActiveX Examples\Delphi\RpFormUnit.pas
+File Copy: C:\RP39\ActiveX Examples\Delphi\RpFormUnit.dfm
+File Copy: C:\RP39\ActiveX Examples\Delphi\RpFormUnit.dcu
+Made Dir: C:\RP39\ActiveX Examples\Cavo 2.X
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\RP3-CAVO 2.X ActiveX MDI.AEF
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\RP3-CAVO 2.X ActiveX Demo.AEF
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\vo28orun.dll
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\RP3 Runtime OLEControl.AEF
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\vo28rdd.dll
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\Dbfntx.rdd
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\Dbfmemo.rdd
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\Dbfmdx.rdd
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\Dbfcdx.rdd
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\Dbfblob.rdd
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\Cavodbf.rdd
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\_dbfcdx.rdd
+File Copy: C:\RP39\rpRV309.EXE
+Made Dir: C:\RP39\ActiveX Examples\VB
+File Copy: C:\RP39\ActiveX Examples\VB\RVProject.exe
+Made Dir: C:\RP39\ClassMate
+File Copy: C:\RP39\ClassMate\RP3_Hook.MEF
+File Copy: C:\RP39\ClassMate\RP3 Runtime DLL.AEF
+File Copy: C:\RP39\ClassMate\RP3 Report View.AEF
+File Copy: C:\RP39\ClassMate\RP3 Report Design.AEF
+File Copy: C:\RP39\Capaint.dll
+Made Dir: C:\RP39\Help
+File Copy: C:\RP39\Help\CMDevGuide.chm
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\vo28sys.dll
+File Copy: C:\RP39\rpSQL309.DLL
+File Copy: C:\RP39\Rpwin.ini
+File Copy: C:\RP39\vo28nat.dll
+File Copy: C:\RP39\rpSpl309.DLL
+File Copy: C:\RP39\rpRT309.DLL
+File Copy: C:\RP39\rpRT309.tlb
+File Copy: C:\RP39\rpRDD309.DLL
+File Copy: C:\RP39\rpRD309.EXE
+File Copy: C:\RP39\rpJAS309.DLL
+File Copy: C:\RP39\rpEng309.DLL
+File Copy: C:\RP39\rpDSN309.DLL
+File Copy: C:\RP39\rpAV309.EXE
+File Copy: C:\RP39\rp3ExampleEFL.DLL
+File Copy: C:\RP39\ClassMate\RP3 Archive Viewer.AEF
+File Copy: C:\RP39\ActiveX Examples\VB\RVProject.vbw
+File Copy: C:\RP39\ClassMate\open.ico
+File Copy: C:\RP39\Cavodbf.rdd
+File Copy: C:\RP39\Dbfblob.rdd
+File Copy: C:\RP39\cmGUI209.DLL
+File Copy: C:\RP39\ClassMate\BullsEye.ico
+File Copy: C:\RP39\ActiveX Examples\VB\BullsEye.ico
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\vo28ole.dll
+File Copy: C:\RP39\Dbfmemo.rdd
+File Copy: C:\RP39\Dbfmdx.rdd
+File Copy: C:\RP39\ActiveX Examples\VB\open.ico
+File Copy: C:\RP39\Labels300.sys
+File Copy: C:\RP39\Dbfntx.rdd
+File Copy: C:\RP39\ActiveX Examples\VB\RVForm.frx
+File Copy: C:\RP39\ActiveX Examples\VB\RVForm.frm
+File Copy: C:\RP39\ActiveX Examples\VB\EditDialog.frx
+File Copy: C:\RP39\ClassMate\RP3 Designer DLL.AEF
+File Copy: C:\RP39\Help\AXDevGuide.chm
+File Copy: C:\RP39\Help\rp300.chm
+File Copy: C:\RP39\Readme.rtf
+File Copy: C:\RP39\Labels300.txt
+File Copy: C:\RP39\_dbfcdx.rdd
+File Copy: C:\RP39\Help\rp300UG.pdf
+File Copy: C:\RP39\Llo32.dll
+File Copy: C:\RP39\ActiveX Examples\VB\Comdlg32.ocx
+File Copy: C:\RP39\ActiveX Examples\VB\RP Constants.bas
+File Copy: C:\RP39\vo28run.dll
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\RP3-CAVO AX Demo.EXE
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\Rp3-cavo ax mdi.exe
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\rp3Runtime.MEF
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\vo28gui.dll
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\vo28nat.dll
+File Copy: C:\RP39\Rp309.exe
+File Copy: C:\RP39\ActiveX Examples\VB\msvbvm60.dll
+File Copy: C:\RP39\Llb32.dll
+Made Dir: C:\RP39\Language
+File Copy: C:\RP39\Language\RP3 English Language.AEF
+File Copy: C:\RP39\ActiveX Examples\VB\EditDialog.frm
+File Copy: C:\RP39\ActiveX Examples\Cavo 2.X\vo28run.dll
+File Copy: C:\RP39\ActiveX Examples\VB\RVProject.vbp
+File Copy: C:\RP39\Dbfcdx.rdd
+File Copy: C:\RP39\Samples\Comodity.dbf
+File Copy: C:\RP39\Samples\Contract.dbf
+File Copy: C:\RP39\Samples\Customer.dbf
+File Copy: C:\RP39\Samples\Customer.dbt
+File Copy: C:\RP39\Samples\Customer.rpt
+File Copy: C:\RP39\Samples\Dd_rdd.ini
+File Copy: C:\RP39\Samples\Dd_sql.ini
+File Copy: C:\RP39\Samples\Dior.bmp
+File Copy: C:\RP39\Samples\District.dbf
+File Copy: C:\RP39\Samples\District.dbt
+File Copy: C:\RP39\Samples\Dp.bmp
+File Copy: C:\RP39\Samples\Equipmnt.dbf
+File Copy: C:\RP39\Samples\Fb1.bmp
+File Copy: C:\RP39\Samples\Fb2.bmp
+File Copy: C:\RP39\Samples\Fb3.bmp
+File Copy: C:\RP39\Samples\Fb4.bmp
+File Copy: C:\RP39\Samples\Fb5.bmp
+File Copy: C:\RP39\Samples\Fb6.bmp
+File Copy: C:\RP39\Samples\graph.rpt
+File Copy: C:\RP39\Samples\Invoice.dbf
+File Copy: C:\RP39\Samples\Invoices.rpt
+File Copy: C:\RP39\Samples\Jasmine Catalog.RPT
+File Copy: C:\RP39\Samples\Jasmine Customers.Rpt
+File Copy: C:\RP39\Samples\Jasmine Inventory.rpt
+File Copy: C:\RP39\Samples\pagemix.rpt
+File Copy: C:\RP39\Samples\Parcels.dbf
+File Copy: C:\RP39\Samples\Parcels.dbt
+File Copy: C:\RP39\Samples\Parlist.rpt
+File Copy: C:\RP39\Samples\parlist2.rpt
+File Copy: C:\RP39\Samples\Sales.dbf
+File Copy: C:\RP39\Samples\Sales.RPT
+File Copy: C:\RP39\Samples\Sample1.dbf
+File Copy: C:\RP39\Samples\Sample1.dbt
+File Copy: C:\RP39\Samples\Sample1.fpt
+File Copy: C:\RP39\Samples\Sample1.rpt
+File Copy: C:\RP39\Samples\Sample2.rpt
+File Copy: C:\RP39\Samples\Therm.bmp
+File Copy: C:\RP39\Samples\Therm1.bmp
+File Copy: C:\RP39\Samples\Therm2.bmp
+File Copy: C:\RP39\Samples\Therm3.bmp
+File Copy: C:\RP39\Samples\Therm4.bmp
+File Copy: C:\RP39\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\ReportPro 3.9d Upgrade
+RegDB Val: ReportPro 3.9d Upgrade
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\ReportPro 3.9d Upgrade
+RegDB Val: C:\RP39\UNWISE.EXE C:\RP39\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+Made Dir: C:\Documents and Settings\Owner\Menú Inicio\Programas\ReportPro 3.9
+Shell Link: C:\Documents and Settings\Owner\Menú Inicio\Programas\ReportPro 3.9\ReportPro 3.9.lnk
+Shell Link: C:\Documents and Settings\Owner\Menú Inicio\Programas\ReportPro 3.9\Report View (Runtime DLL Example).lnk
+Shell Link: C:\Documents and Settings\Owner\Menú Inicio\Programas\ReportPro 3.9\ReportPro User's Guide.lnk
+Shell Link: C:\Documents and Settings\Owner\Menú Inicio\Programas\ReportPro 3.9\ReportPro Help.lnk
+Shell Link: C:\Documents and Settings\Owner\Menú Inicio\Programas\ReportPro 3.9\ClassMate Developer's Guide For ReportPro.lnk
+Shell Link: C:\Documents and Settings\Owner\Menú Inicio\Programas\ReportPro 3.9\Report Design (Designer DLL Example).lnk
+Shell Link: C:\Documents and Settings\Owner\Menú Inicio\Programas\ReportPro 3.9\ReportPro ActiveX Developer's Guide.lnk
+Shell Link: C:\Documents and Settings\Owner\Menú Inicio\Programas\ReportPro 3.9\ReportPro Archive Viewer.lnk
+Self-Register: C:\RP39\rpRT309.DLL
+Self-Register: C:\RP39\rpDSN309.DLL
+Self-Register: C:\RP39\ActiveX Examples\VB\Comdlg32.ocx
+Self-Register: C:\RP39\ActiveX Examples\VB\msvbvm60.dll
+RegDB Key: .RPT
+RegDB Val: ReportPro.Report
+RegDB Old: Rp2_32.Document
+RegDB Key: ReportPro.Report
+RegDB Val: ReportPro Report
+RegDB Key: ReportPro.Report\shell\open\command
+RegDB Val: C:\RP39\Rp309.exe %1
+User Rights: Admin
